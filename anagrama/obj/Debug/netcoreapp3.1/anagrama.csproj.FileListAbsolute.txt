@@ -1,0 +1,13 @@
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.exe
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.deps.json
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.runtimeconfig.json
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.runtimeconfig.dev.json
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.dll
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\bin\Debug\netcoreapp3.1\anagrama.pdb
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.csprojAssemblyReference.cache
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.AssemblyInfoInputs.cache
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.AssemblyInfo.cs
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.dll
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.pdb
+C:\Users\ricardo_altamirano\source\repos\anagrama\anagrama\obj\Debug\netcoreapp3.1\anagrama.genruntimeconfig.cache
